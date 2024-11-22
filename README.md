@@ -5,3 +5,10 @@ This project focuses on applying data augmentation techniques on NASA's asteroid
 <p align="center">
   <img src="dataset-cover.jpg" />
 </p>
+
+### Table of Contents
+* Libraries used
+* Exploratory Data Analysis
+* Data Preparation
+* Data Transformation
+* Analysis of Augmented Data
